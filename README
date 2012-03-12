@@ -1,0 +1,1 @@
+This is my CodeIgniter Template. I've included a sample controller, a model and several views. For authentication, I'm using Ben Edmunds ion-auth located at https://github.com/benedmunds/CodeIgniter-Ion-Auth. For the template, I am using Jerome Jaglale's templating system located at http://maestric.com/doc/php/codeigniter_template.
